@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hello everyone 👋
+
+Welcome to Funmetric's GitHub page! ✨
+
+We are group of analysts, data scientists, designers and marketers developing data-driven technologies
+to help publishers and game studios achieve their goals.
+
+For more information please visit our [website](https://funmetric.io/)
+
+Stay tuned! 🚀
 
 <!--
 **funmetric/funmetric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
